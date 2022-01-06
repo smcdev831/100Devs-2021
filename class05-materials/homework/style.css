@@ -1,0 +1,33 @@
+*{
+  box-sizing: border-box;
+}
+
+@media (max-width: 800px){
+  section{
+    margin: auto;
+    clear: both;
+  }
+}
+
+header,footer{
+  border: 5px solid gray;
+  height: 100px;
+}
+
+#one{
+  border: 3px solid gray;
+  height: 200px;
+  width: 33.3333333%;
+  float: left;
+}
+
+#two{
+  border: 3px solid gray;
+  height: 200px;
+  width: 50%;
+  float: left;
+}
+
+footer{
+  clear: both;
+}

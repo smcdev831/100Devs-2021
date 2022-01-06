@@ -1,0 +1,54 @@
+h1{
+  text-align: center;
+  font-family: 'Alike Angular', serif;
+  font-style: italic;
+}
+
+h2{
+  font-family: sans-serif;
+}
+
+nav{
+  font-family: sans-serif;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a{
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a + span + a{
+  color: #4bcc9b;
+  text-decoration: none;
+}
+
+span{
+  color: #82a9b9
+}
+
+body{
+  font-family: serif;
+  font-weight: bold;
+  font-size: 18px;
+  border: 4px solid #4ccd45;
+  background: #87ceeb;
+  color: #ffffff;
+  padding: 2em;
+}
+
+img{
+  float: right;
+  padding: 10px;
+  max-width: 200px;
+  max-height: 200px;
+}
+
+footer a{
+  font-family: sans-serif;
+  text-align: center;
+  font-weight: bold;
+  color: #4bcc9b;
+}
